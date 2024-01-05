@@ -1,0 +1,112 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Romero",
+      "image": "data:image/jpeg;base64,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",
+      "arrival": "11/28/2023",
+      "age": "4 months",
+      "sex": "Male",
+      "color": "Brown and White",
+      "vaccinated": "Yes"
+    },
+    {
+      "id": 2,
+      "name": "Asher",
+      "image": "https://www.pawschicago.org/fileadmin/_processed_/4/2/csm_Dogs_-_Credit_Sebastian_Sparenga__13__ad7630f8a2.jpg",
+      "arrival": "11/22/2023",
+      "age": "4 months",
+      "sex": "Male",
+      "color": "Brown and White",
+      "vaccinated": "Yes"
+    },
+    {
+      "id": 3,
+      "name": "Effie",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgY3PPj63UsGFEASnu52dpgEUWhn3OnNSQB8jjQr80dKDOLQY88XuniZB5iYRZd28b-y4&usqp=CAU",
+      "arrival": "10/30/2023",
+      "age": "5 months",
+      "sex": "Female",
+      "color": "Brown and Black",
+      "vaccinated": "Yes"
+    },
+    {
+      "id": 4,
+      "name": "Duchess",
+      "image": "https://www.puppyjakefoundation.org/sites/default/files/styles/body_image/public/_MG_8467.jpg?itok=3tkEzkfi",
+      "arrival": "10/3/2023",
+      "age": "6 months",
+      "sex": "Female",
+      "color": "Brindle",
+      "vaccinated": "Yes"
+    },
+    {
+      "name": "Jasper",
+      "image": "https://www.shelterluv.com/sites/default/files/animal_pics/1235/2023/12/05/14/20231205145937.png",
+      "arrival": "11/30/2023",
+      "age": "3 months",
+      "sex": "Male",
+      "color": "White",
+      "vaccinated": "No",
+      "id": 6
+    },
+    {
+      "name": "Lexie",
+      "image": "https://www.shelterluv.com/sites/default/files/animal_pics/1235/2023/11/22/08/20231122080120.png",
+      "arrival": "10/17/2023",
+      "age": "2 years",
+      "sex": "Female",
+      "color": "Brown and Tan",
+      "vaccinated": "Yes",
+      "id": 7
+    },
+    {
+      "name": "Maria",
+      "image": "https://www.shelterluv.com/sites/default/files/animal_pics/1235/2023/11/22/08/20231122080158.png",
+      "arrival": "12/7/2023",
+      "age": "3 years",
+      "sex": "Female",
+      "color": "Tan and white",
+      "vaccinated": "Yes",
+      "id": 8
+    }
+  ],
+  "fosters": [
+    { 
+    "name": "John Foster",
+    "email": "john@example.com",
+    "phone": "123-456-7890",
+    "location": "New York",
+    "dateJoined": "11/15/2023"
+  },
+  {
+    "name": "Jane Foster",
+    "email": "jane@example.com",
+    "phone": "987-654-3210",
+    "location": "Los Angeles",
+    "dateJoined": "10/20/2023"
+  },
+  { 
+    "name": "Snoop Dogg",
+    "email": "snoop@example.com",
+    "phone": "555-555-555",
+    "location": "Los Angeles",
+    "dateJoined": "11/15/2023"
+  },
+  { 
+    "name": "Nate Dogg",
+    "email": "nate@example.com",
+    "phone": "213-213-7890",
+    "location": "Long Beach",
+    "dateJoined": "11/15/2023"
+  },
+  { 
+    "name": "Lindsey Quinonez",
+    "email": "Lindsey@example.com",
+    "phone": "123-456-7890",
+    "location": "Brooklyn",
+    "dateJoined": "11/15/2023"
+  }
+
+  ]
+}
